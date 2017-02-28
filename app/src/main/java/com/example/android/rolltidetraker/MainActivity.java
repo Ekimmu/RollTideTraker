@@ -8,7 +8,6 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    // Added GitHub Account
     // testing commit
     // int's to keep track of Team A & B 's scores and first downs
     int scoreTeamA = 0;
